@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chema\\Documents\\Proyectos Personales\\VS2022\\WhatTimeIsIt\\WhatTimeIsIt\\WhatTimeIsIt.csproj": {}
+    "C:\\Users\\chema\\Documents\\GitHub\\WhatTimeIsIt\\WhatTimeIsIt\\WhatTimeIsIt\\WhatTimeIsIt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chema\\Documents\\Proyectos Personales\\VS2022\\WhatTimeIsIt\\WhatTimeIsIt\\WhatTimeIsIt.csproj": {
+    "C:\\Users\\chema\\Documents\\GitHub\\WhatTimeIsIt\\WhatTimeIsIt\\WhatTimeIsIt\\WhatTimeIsIt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chema\\Documents\\Proyectos Personales\\VS2022\\WhatTimeIsIt\\WhatTimeIsIt\\WhatTimeIsIt.csproj",
+        "projectUniqueName": "C:\\Users\\chema\\Documents\\GitHub\\WhatTimeIsIt\\WhatTimeIsIt\\WhatTimeIsIt\\WhatTimeIsIt.csproj",
         "projectName": "WhatTimeIsIt",
-        "projectPath": "C:\\Users\\chema\\Documents\\Proyectos Personales\\VS2022\\WhatTimeIsIt\\WhatTimeIsIt\\WhatTimeIsIt.csproj",
+        "projectPath": "C:\\Users\\chema\\Documents\\GitHub\\WhatTimeIsIt\\WhatTimeIsIt\\WhatTimeIsIt\\WhatTimeIsIt.csproj",
         "packagesPath": "C:\\Users\\chema\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chema\\Documents\\Proyectos Personales\\VS2022\\WhatTimeIsIt\\WhatTimeIsIt\\obj\\",
+        "outputPath": "C:\\Users\\chema\\Documents\\GitHub\\WhatTimeIsIt\\WhatTimeIsIt\\WhatTimeIsIt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chema\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,5 +1,5 @@
 ﻿
-//Jose Maria Rosales Gloria - What Time is It 
+//Jose Rosales - What Time is It 
 
 //enter hour
 Console.WriteLine("Please, enter hour");
