@@ -1,0 +1,14 @@
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\bin\Release\net8.0\WhatTimeIsIt.exe
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\bin\Release\net8.0\WhatTimeIsIt.deps.json
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\bin\Release\net8.0\WhatTimeIsIt.runtimeconfig.json
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\bin\Release\net8.0\WhatTimeIsIt.dll
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\bin\Release\net8.0\WhatTimeIsIt.pdb
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\obj\Release\net8.0\WhatTimeIsIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\obj\Release\net8.0\WhatTimeIsIt.AssemblyInfoInputs.cache
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\obj\Release\net8.0\WhatTimeIsIt.AssemblyInfo.cs
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\obj\Release\net8.0\WhatTimeIsIt.csproj.CoreCompileInputs.cache
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\obj\Release\net8.0\WhatTimeIsIt.dll
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\obj\Release\net8.0\refint\WhatTimeIsIt.dll
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\obj\Release\net8.0\WhatTimeIsIt.pdb
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\obj\Release\net8.0\WhatTimeIsIt.genruntimeconfig.cache
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\obj\Release\net8.0\ref\WhatTimeIsIt.dll

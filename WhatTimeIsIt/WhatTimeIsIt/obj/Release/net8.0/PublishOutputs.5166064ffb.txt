@@ -1,0 +1,5 @@
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\bin\Release\net8.0\publish\WhatTimeIsIt.exe
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\bin\Release\net8.0\publish\WhatTimeIsIt.dll
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\bin\Release\net8.0\publish\WhatTimeIsIt.deps.json
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\bin\Release\net8.0\publish\WhatTimeIsIt.runtimeconfig.json
+C:\Users\chema\Documents\Proyectos Personales\VS2022\WhatTimeIsIt\WhatTimeIsIt\bin\Release\net8.0\publish\WhatTimeIsIt.pdb
